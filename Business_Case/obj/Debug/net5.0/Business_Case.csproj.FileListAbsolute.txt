@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\Business_Case\Business_Case\bin\Debug\net5.0\Business_Case.exe
+C:\Users\Lenovo\source\repos\Business_Case\Business_Case\bin\Debug\net5.0\Business_Case.deps.json
+C:\Users\Lenovo\source\repos\Business_Case\Business_Case\bin\Debug\net5.0\Business_Case.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Business_Case\Business_Case\bin\Debug\net5.0\Business_Case.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Business_Case\Business_Case\bin\Debug\net5.0\Business_Case.dll
+C:\Users\Lenovo\source\repos\Business_Case\Business_Case\bin\Debug\net5.0\Business_Case.pdb
+C:\Users\Lenovo\source\repos\Business_Case\Business_Case\obj\Debug\net5.0\Business_Case.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Business_Case\Business_Case\obj\Debug\net5.0\Business_Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Business_Case\Business_Case\obj\Debug\net5.0\Business_Case.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Business_Case\Business_Case\obj\Debug\net5.0\Business_Case.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Business_Case\Business_Case\obj\Debug\net5.0\Business_Case.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Business_Case\Business_Case\obj\Debug\net5.0\Business_Case.dll
+C:\Users\Lenovo\source\repos\Business_Case\Business_Case\obj\Debug\net5.0\refint\Business_Case.dll
+C:\Users\Lenovo\source\repos\Business_Case\Business_Case\obj\Debug\net5.0\Business_Case.pdb
+C:\Users\Lenovo\source\repos\Business_Case\Business_Case\obj\Debug\net5.0\Business_Case.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Business_Case\Business_Case\obj\Debug\net5.0\ref\Business_Case.dll

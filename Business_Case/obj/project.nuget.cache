@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ent3rQjgzIxlXfTDx0rs7O4x4lBcAQ16uD6lBAsdooS/L/64Jh5xaJfvbuIMbYAGjfAD0O//cOAAW20qnpCwkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\Business_Case\\Business_Case\\Business_Case.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
